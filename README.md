@@ -14,7 +14,11 @@ The learning path I took is documented here so that you may use it if either:
 5. Deep Machine Learning & AI
 
 ## How to Use This 
+My goal is *not* to tell you how to learn key data science concepts. My goal is to share the resources I used in refreshing my skills.
 
+In my opinion, the best way to use this repo is as a starting point (take what you like, ignore what you don't, supplement what you think is missing, etc). 
+
+**Please, if you find 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjA3MTc1LC02NjE0ODY0NzZdfQ==
+eyJoaXN0b3J5IjpbMTAxNTY3NDc4LC02NjE0ODY0NzZdfQ==
 -->
