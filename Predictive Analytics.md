@@ -1,5 +1,5 @@
 
-# Predictive Analytics
+# Predictive Analytics [wip]
 
 ### Resourced used:
 - [Deep learning book](https://github.com/janishar/mit-deep-learning-book-pdf)
@@ -9,9 +9,18 @@
 
 ## General introduction
 - Unsupervised learning (Stanford course)
-- Machine learning basics (Deep lea
+- Applied math and machine learning basics (Deep learning Ch 1)
+- Machine learning basics (Deep learning Ch 5)
+
+## Machine learning basics
+- Machine learning landscape (Hands on ML Ch 1)
+- Advice for applying ML (ML with Andrew Ng)
+- Machine learning project steps (Hands on ML Ch 2)
+- Unsupervised Learning (ML with Andrew Ng)
+
+[wip]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTU3MjU0OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQzMzg2NDE5NCw3MzA5OTgxMTZdfQ==
 -->
