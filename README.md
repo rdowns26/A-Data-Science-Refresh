@@ -18,7 +18,7 @@ My goal is *not* to tell you how to learn key data science concepts. My goal is 
 
 In my opinion, the best way to use this repo is as a starting point (take what you like, ignore what you don't, supplement what you think is missing, etc). 
 
-**Please, if you find 
+**If you have other resources you'd like to recommend, please issue a pull request, I'd love to add contributors!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTY3NDc4LC02NjE0ODY0NzZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDYxMTA2MzMsLTY2MTQ4NjQ3Nl19
 -->
