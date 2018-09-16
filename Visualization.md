@@ -32,9 +32,15 @@
 (OR)
 - Intro to D3 (Interactive data viz book Ch 2)
 - Tech fundamentals and setup (Interactive data viz book Ch 3, 4)
-- Drawing with data (Intera
+- Drawing with data (Interactive data viz book Ch 6)
+- Updates, transitions, and motions (Interactive data viz book Ch 9)
+- Interactivity (Interactive data viz book Ch 10)
+
+## Optional to cover
+- Geomapping
+- Tableau
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTU3ODUwOCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTg2OTczOTQ5OSw3MzA5OTgxMTZdfQ==
 -->
