@@ -22,9 +22,19 @@
 - [Plotly Tutorial](https://plot.ly/python/)
 
 ## Tool: Bokeh
-- [Tutorial]()
+- [Tutorial](http://bokeh.pydata.org/en/0.11.1/docs/user_guide/tutorials.html)
+
+## Advanced Graphs
+- Advanced graphs (Online Stats Ch 8)
+
+## D3
+- [D3 and visualization course](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+(OR)
+- Intro to D3 (Interactive data viz book Ch 2)
+- Tech fundamentals and setup (Interactive data viz book Ch 3, 4)
+- Drawing with data (Intera
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODg4MjI5MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQxOTU3ODUwOCw3MzA5OTgxMTZdfQ==
 -->
