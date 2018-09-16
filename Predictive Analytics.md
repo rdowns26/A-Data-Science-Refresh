@@ -1,6 +1,8 @@
 
 # Predictive Analytics [wip]
 
+*Note: Still in progress of aggregating resources used*
+
 ### Resourced used:
 - [Deep learning book](https://github.com/janishar/mit-deep-learning-book-pdf)
 - [Hands on machine learning book](https://www.amazon.com/_/dp/1491962291)
@@ -22,5 +24,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzg2NDE5NCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MDI3NTE5NjUsNzMwOTk4MTE2XX0=
 -->
