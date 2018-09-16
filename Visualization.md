@@ -12,9 +12,19 @@
 - Popular ways to visualize data in Python (Analytics Vidhya)
 
 ## Visualization Theory
-- Scales (Interactive data v
+- Scales (Interactive data viz Ch 7)
+- Axes (Interactive data viz Ch 8)
+- Layouts (Interactive data viz Ch 11)
+
+## Tools: Common Python Viz
+- [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+- [Matplotlib Tutorial](https://matplotlib.org/users/pyplot_tutorial.html)
+- [Plotly Tutorial](https://plot.ly/python/)
+
+## Tool: Bokeh
+- [Tutorial]()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNjQyNzkyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTY0ODg4MjI5MCw3MzA5OTgxMTZdfQ==
 -->
