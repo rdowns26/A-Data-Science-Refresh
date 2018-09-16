@@ -8,11 +8,11 @@ The learning path I took is documented here so that you may use it if either:
 
 ## Topics Covered
 *I do also recommend covering them in the order listed:*
-1. Statistics
-2. Exploratory Analysis
-3. Visualization
-4. Predictive Analytics
-5. Deep Machine Learning & AI
+1. [Statistics](https://github.com/rdowns26/A-Data-Science-Refresh/blob/master/Statistics.md)
+2. [Exploratory Analysis](https://github.com/rdowns26/A-Data-Science-Refresh/blob/master/Exploratory%20Analysis.md)
+3. [Visualization](https://github.com/rdowns26/A-Data-Science-Refresh/blob/master/Visualization.md)
+4. [Predictive Analytics](https://github.com/rdowns26/A-Data-Science-Refresh/blob/master/Predictive%20Analytics.md)
+5. [Deep Machine Learning & AI](https://github.com/rdowns26/A-Data-Science-Refresh/blob/master/Machine%20Learning.md)
 
 ## How to Use This 
 My goal is *not* to tell you how to learn key data science concepts. My goal is to share the resources I used in refreshing my skills.
@@ -21,5 +21,6 @@ In my opinion, the best way to use this repo is as a starting point (take what y
 
 **If you have other resources you'd like to recommend, please issue a pull request, I'd love to add contributors!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MTA2NDQsLTY2MTQ4NjQ3Nl19
+eyJoaXN0b3J5IjpbLTc0MzM4MjIzNCw3OTgxMDY0NCwtNjYxND
+g2NDc2XX0=
 -->
