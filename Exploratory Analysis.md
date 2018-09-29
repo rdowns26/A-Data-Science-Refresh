@@ -2,7 +2,7 @@
 
 ### Resources Used
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
-- [Python for data analysis](http://shop.oreilly.com/product/0636920023784.do)
+- [Python for data analysis](http://opencarts.org/sachlaptrinh/pdf/28232.pdf)
 - [ML with Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [NTLK Book](http://www.nltk.org/book/)
 - [Text analytics with python](https://www.amazon.com/Text-Analytics-Python-Real-World-Actionable/dp/148422387X)
@@ -71,5 +71,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzUzMzU2MF19
+eyJoaXN0b3J5IjpbNTk5Mjg5MDg1LDE2NjM1MzM1NjBdfQ==
 -->
