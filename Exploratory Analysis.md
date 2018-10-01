@@ -20,7 +20,7 @@
 
 ## Data wrangling
 - Data wrangling basics (Python for data analysis Ch 7)
-- Data aggregation and group operations (Python for data analysis Ch 9)
+- Data aggregation and group operations (Python for data analysis Ch 8)
 
 ## Time series
 - Time series (Python for data analysis Ch 10)
@@ -71,5 +71,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5Mjg5MDg1LDE2NjM1MzM1NjBdfQ==
+eyJoaXN0b3J5IjpbLTEwNzA4NDI0MDIsNTk5Mjg5MDg1LDE2Nj
+M1MzM1NjBdfQ==
 -->
