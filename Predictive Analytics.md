@@ -1,8 +1,6 @@
 
 # Predictive Analytics [wip]
 
-*Note: Still in progress of aggregating resources used*
-
 ### Resourced used:
 - [Deep learning book](https://github.com/janishar/mit-deep-learning-book-pdf)
 - [Hands on machine learning book](https://www.amazon.com/_/dp/1491962291)
@@ -111,6 +109,6 @@ https://matlabacademy.mathworks.com/
 ## SciKit Learn - Tool
 http://scikit-learn.org/stable/tutorial/index.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NjYwODkxLC0xODAyNzUxOTY1LDczMD
+eyJoaXN0b3J5IjpbOTEzMzc2ODg2LC0xODAyNzUxOTY1LDczMD
 k5ODExNl19
 -->
