@@ -13,7 +13,7 @@
 - Comprehensive guide to data exploration (Analytics Vidhya)
 
 ## Pandas basics
-- Pandas basics (Python for data analysis Ch 5, 6, 7, 8, )
+- Pandas basics (Python for data analysis Ch 5, 6, 7, 8, 9)
 
 ## Structured thinking
 - Structured thinking (Analytics Vidhya)
@@ -71,6 +71,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU2NjQ1NTgsLTEwNzA4NDI0MDIsNT
+eyJoaXN0b3J5IjpbLTEzOTMyOTk1MjEsLTEwNzA4NDI0MDIsNT
 k5Mjg5MDg1LDE2NjM1MzM1NjBdfQ==
 -->
