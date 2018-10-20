@@ -13,7 +13,7 @@
 - Comprehensive guide to data exploration (Analytics Vidhya)
 
 ## Pandas basics
-- Pandas basics (Python for data analysis Ch 5)
+- Pandas basics (Python for data analysis Ch 5, 6, 7, 8, )
 
 ## Structured thinking
 - Structured thinking (Analytics Vidhya)
@@ -23,7 +23,7 @@
 - Data aggregation and group operations (Python for data analysis Ch 8)
 
 ## Time series
-- Time series (Python for data analysis Ch 10)
+- Time series (Python for data analysis Ch 11)
 
 ## Anomaly detection
 - Anomaly detection (ML with Andrew Ng)
@@ -71,6 +71,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA4NDI0MDIsNTk5Mjg5MDg1LDE2Nj
-M1MzM1NjBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU2NjQ1NTgsLTEwNzA4NDI0MDIsNT
+k5Mjg5MDg1LDE2NjM1MzM1NjBdfQ==
 -->
