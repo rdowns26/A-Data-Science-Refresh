@@ -53,10 +53,36 @@
 - Predicting continuous variables with regression (Python machine learning Ch 10)
 - Smoothers (like Loess) for linear regression trend lines
 
-## Linear Model Seleg
+## Linear Model Selection and Regularization
+- Linear model selection and regularization (Stanford)
+
+## Logistic Regression
+- Logistic regression (ML with Andrew Ng)
+- Logistic regression with SkLearn (Python machine learning Ch 3)
+- Logistic regression tutorial (Machine learning mastery)
+- Moving beyond linearity (Stanford)
+
+## Decision Trees and Random Forests
+- Tree-based methods (Stanford)
+- Decision tree learning with Sklearn (Python machine learning Ch 3)
+- Decision trees with Python Tutorial (Analytics Vidhya)
+- Decision trees (Hands on ML Ch 6)
+
+## K Nearest Neighbors
+- K nearest neighbors tutorial (Analytics Vidhya)
+- K nearest neighbors sklearn (Python machine learning Ch 3)
+
+## Naive Bayes
+- Naive bayes tutorial (Analytics Vidhya)
+
+## Ensemble Methods
+- Ensemble learning and random forests (hands on ML ch 7)
+- Ensemble learning (Python machine learning Ch 7)
+
+## 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTE1MTIxMywtMTgwMjc1MTk2NSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjE2MzIwOTksLTE4MDI3NTE5NjUsNzMwOT
+k4MTE2XX0=
 -->
