@@ -35,9 +35,28 @@
 - Classification (Hands on ML Ch 3)
 - Classifying handwritten digits (Python machine learning ch 12)
 
+## Training Models
+- Training models (Hands on ML Ch 4)
+- Gradient boosting
+
+## Model Evaluation
+- Learning and validation curves (Python machine learning Ch 6)
+- Model performance eval metrics (Python machine learning Ch 6)
+- K-Fold cross validation (Python machine learning Ch 6)
+
+## Linear Regression
+- Linear regression with one variable (ML with Andrew Ng)
+- Linear regression (Stanford)
+- Linear regression tutorial (PennState Online Course)
+- Regression (Online Stats Ch 14)
+- Linear regression with multiple variables (ML with Andrew Ng)
+- Predicting continuous variables with regression (Python machine learning Ch 10)
+- Smoothers (like Loess) for linear regression trend lines
+
+## Linear Model Seleg
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMTUzMDMxLC0xODAyNzUxOTY1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMTAzMTE1MTIxMywtMTgwMjc1MTk2NSw3Mz
+A5OTgxMTZdfQ==
 -->
