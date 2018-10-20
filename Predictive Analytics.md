@@ -20,9 +20,16 @@
 - Machine learning project steps (Hands on ML Ch 2)
 - Unsupervised Learning (ML with Andrew Ng)
 
+## Anomaly detection
+- Anomaly detection (ML with Andrew Ng)
+
+## Regularization
+- Regularization (ML with Andrew Ng)
+
 [wip]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI3NTE5NjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjQ2ODU5MzI1LC0xODAyNzUxOTY1LDczMD
+k5ODExNl19
 -->
