@@ -59,14 +59,14 @@
 ## Deep learning for NLP  
 - Primer in deep learning for NLP
 - Intro to NLP and deep learning (Stanford NLP deep learning course)  
-- Deep learning for chatbots (part 1 and 2 - WildML)_ Word 2 Vector (Stanford NLP deep learning course)  
-_Vowpal Wabbit Tutorial_ Build an AI chatbot
+- Deep learning for chatbots (part 1 and 2 - WildML)
+- Word 2 Vector (Stanford NLP deep learning course)  
+- Vowpal Wabbit Tutorial
+- Build an AI chatbot
 
-TensorFlow - Tool  
-*  [https://www.tensorflow.org/tutorials/](https://www.tensorflow.org/tutorials/)
-
-> Written with [StackEdit](https://stackedit.io/).
+## TensorFlow - Tool  
+[https://www.tensorflow.org/tutorials/](https://www.tensorflow.org/tutorials/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU4MDI1MjksMzI2ODg0OTI3LDczMD
+eyJoaXN0b3J5IjpbLTEzMzQzNDMwOTMsMzI2ODg0OTI3LDczMD
 k5ODExNl19
 -->
