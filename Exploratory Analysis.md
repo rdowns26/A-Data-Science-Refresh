@@ -25,12 +25,6 @@
 ## Time series
 - Time series (Python for data analysis Ch 11)
 
-## Anomaly detection
-- Anomaly detection (ML with Andrew Ng)
-
-## Regularization
-- Regularization (ML with Andrew Ng)
-
 ## Natural Language Basics
 - Complete entire NLTK Book
 
@@ -71,6 +65,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2NDM1MDIsLTEwNzA4NDI0MDIsNT
-k5Mjg5MDg1LDE2NjM1MzM1NjBdfQ==
+eyJoaXN0b3J5IjpbODkxNTg3MTIsLTE1MDg2NDM1MDIsLTEwNz
+A4NDI0MDIsNTk5Mjg5MDg1LDE2NjM1MzM1NjBdfQ==
 -->
