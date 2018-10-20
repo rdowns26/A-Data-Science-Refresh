@@ -101,10 +101,18 @@
 - Dimensionality reduction via principle component analysis (Python machine learning Ch 5)
 - Dimensionality reduction (Feature engineering for ML O’Reilly Ch 6)
 - Dimensionality reduction (Hands on ML Ch 8)
-- 
+- Supervised data compression via linear discriminant analysis (Python machine learning Ch 5)
+- Dimensionality reduction article (Analytics Vidhya)
+- Complex dimensionality reduction (Python machine learning Ch 5)
+
+## Matlab - Tool
+https://matlabacademy.mathworks.com/
+
+## SciKit Learn - Tool
+http://scikit-learn.org/stable/tutorial/index.html
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzY4MDI5MiwtMTgwMjc1MTk2NSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMzgxOTg2OTQ5LC0xODAyNzUxOTY1LDczMD
+k5ODExNl19
 -->
