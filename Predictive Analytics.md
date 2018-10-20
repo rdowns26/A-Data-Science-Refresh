@@ -79,10 +79,24 @@
 - Ensemble learning and random forests (hands on ML ch 7)
 - Ensemble learning (Python machine learning Ch 7)
 
-## 
+## Statistical Learning
+- Overview of statistical learning (Stanford)
+- Resampling Methods - Stanford
+
+## Feature Engineering
+- Feature engineering intro (Feature engineering for ML O’Reilly Ch 1)
+- Fancy trick with simple numbers (Feature engineering for ML O’Reilly Ch 2)
+- Building good training sets and data preprocessing (Python machine learning Ch 4)
+- Basic feature engineering for text (Feature engineering for ML O’Reilly Ch 3)
+- The effects of feature scaling (Feature engineering for ML O’Reilly Ch 4)
+- Counts and categorical variables (Feature engineering for ML O’Reilly Ch 5)
+
+## Advanced Feature Engineering
+- Non linear featurization and model stacking (Feature engineering for ML O’Reilly Ch 7)
+- Automating the featurizer (Feature engineering for ML O’Reilly Ch 8)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2MzIwOTksLTE4MDI3NTE5NjUsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwODczNTYwMDgsLTE4MDI3NTE5NjUsNz
+MwOTk4MTE2XX0=
 -->
