@@ -9,6 +9,7 @@
 - [ML with Andrew Ng](https://www.class-central.com/mooc/835/coursera-machine-learning)
 - [Statistical Learning Stanford Course](http://online.stanford.edu/course/statistical-learning-self-paced)
 - [Python Machine Learning](http://liuchengxu.org/books/src/Machine%20Learning/Python-Machine-Learning.pdf)
+- [Feature Engineering for ML](http://shop.oreilly.com/product/0636920049081.do)
 
 ## General introduction
 - Unsupervised learning (Stanford course)
@@ -95,8 +96,15 @@
 - Non linear featurization and model stacking (Feature engineering for ML O’Reilly Ch 7)
 - Automating the featurizer (Feature engineering for ML O’Reilly Ch 8)
 
+## Dimensionality Reduction
+- Dimensionality reduction (ML with Andrew Ng)
+- Dimensionality reduction via principle component analysis (Python machine learning Ch 5)
+- Dimensionality reduction (Feature engineering for ML O’Reilly Ch 6)
+- Dimensionality reduction (Hands on ML Ch 8)
+- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODczNTYwMDgsLTE4MDI3NTE5NjUsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY2MzY4MDI5MiwtMTgwMjc1MTk2NSw3Mz
+A5OTgxMTZdfQ==
 -->
