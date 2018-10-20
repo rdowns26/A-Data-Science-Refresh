@@ -110,9 +110,7 @@ https://matlabacademy.mathworks.com/
 
 ## SciKit Learn - Tool
 http://scikit-learn.org/stable/tutorial/index.html
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxOTg2OTQ5LC0xODAyNzUxOTY1LDczMD
+eyJoaXN0b3J5IjpbNzI0NjYwODkxLC0xODAyNzUxOTY1LDczMD
 k5ODExNl19
 -->
